@@ -1,0 +1,255 @@
+characters:
+  # --- The Emperor ---
+  - name: "The Emperor"
+    aliases: ["Emperor of Mankind", "God-Emperor", "Master of Mankind", "the Emperor", "the Omnissiah"]
+
+  # --- Primarchs ---
+  - name: "Lion El'Jonson"
+    aliases: ["El'Jonson", "the Lion"]
+  - name: Fulgrim
+    aliases: ["the Phoenician"]
+  - name: Perturabo
+    aliases: ["Lord of Iron"]
+  - name: Jaghatai Khan
+    aliases: ["the Khan", "Warhawk"]
+  - name: Leman Russ
+    aliases: ["the Wolf King", "the Wolf"]
+  - name: Rogal Dorn
+  - name: Konrad Curze
+    aliases: ["Night Haunter", "the Night Haunter", "Curze"]
+  - name: Sanguinius
+  - name: Ferrus Manus
+  - name: Angron
+    aliases: ["the Red Angel"]
+  - name: Guilliman
+    aliases: ["Roboute Guilliman"]
+  - name: Mortarion
+  - name: Magnus
+    aliases: ["Magnus the Red"]
+  - name: Horus
+    aliases: ["Lupercal", "the Warmaster"]
+  - name: Lorgar
+    aliases: ["Lorgar Aurelian", "the Urizen", "the Aurelian"]
+  - name: Vulkan
+  - name: Corax
+    aliases: ["Corvus Corax"]
+  - name: Alpharius
+    aliases: ["Omegon"]
+
+  # --- Sons of Horus / Luna Wolves ---
+  - name: Loken
+    aliases: ["Garviel Loken"]
+  - name: Abaddon
+    aliases: ["Ezekyle Abaddon"]
+  - name: Torgaddon
+    aliases: ["Tarik Torgaddon"]
+  - name: Aximand
+    aliases: ["Horus Aximand", "Little Horus"]
+  - name: Maloghurst
+  - name: Iacton Qruze
+    aliases: ["the Half-heard", "Qruze"]
+  - name: Sejanus
+    aliases: ["Hastur Sejanus"]
+
+  # --- Emperor's Children ---
+  - name: Saul Tarvitz
+    aliases: ["Tarvitz"]
+  - name: Lucius
+    aliases: ["Lucius the Eternal"]
+  - name: Eidolon
+  - name: Solomon Demeter
+    aliases: ["Demeter"]
+  - name: Marius Vairosean
+    aliases: ["Vairosean"]
+
+  # --- Word Bearers ---
+  - name: Erebus
+  - name: Kor Phaeron
+  - name: Argel Tal
+  - name: Cyrene
+    aliases: ["Cyrene Valantion"]
+  - name: Lorgar
+
+  # --- Thousand Sons ---
+  - name: Ahriman
+    aliases: ["Ahzek Ahriman"]
+  - name: Hathor Maat
+  - name: Sobek
+
+  # --- World Eaters ---
+  - name: "Khârn"
+    aliases: ["Kharn"]
+  - name: Argel Tal
+
+  # --- Death Guard ---
+  - name: Typhon
+    aliases: ["Calas Typhon", "Typhus"]
+  - name: Grulgor
+  - name: Nathaniel Garro
+    aliases: ["Garro"]
+
+  # --- Night Lords ---
+  - name: Sevatar
+
+  # --- Iron Hands ---
+  - name: Shadrak Meduson
+    aliases: ["Meduson"]
+  - name: Nykona Sharrowkyn
+    aliases: ["Sharrowkyn"]
+
+  # --- Iron Warriors ---
+  - name: Forrix
+  - name: Kroeger
+
+  # --- Raven Guard ---
+  - name: Agapito
+  - name: Solaro
+
+  # --- Imperial Fists / loyalists ---
+  - name: Sigismund
+
+  # --- Custodes / Terra ---
+  - name: Valdor
+    aliases: ["Constantin Valdor"]
+  - name: Malcador
+    aliases: ["the Sigilite", "Malcador the Sigilite"]
+
+  # --- Other recurring ---
+  - name: John Grammaticus
+    aliases: ["Grammaticus"]
+  - name: Iaeo
+  - name: Alivia Sureka
+    aliases: ["Alivia"]
+  - name: Kasper Hawser
+    aliases: ["Hawser"]
+
+legions:
+  - name: Dark Angels
+    aliases: ["First Legion", "I Legion"]
+  - name: Second Legion
+    aliases: ["II Legion"]
+  - name: "Emperor's Children"
+    aliases: ["Third Legion", "III Legion"]
+  - name: Iron Warriors
+    aliases: ["Fourth Legion", "IV Legion"]
+  - name: White Scars
+    aliases: ["Fifth Legion", "V Legion"]
+  - name: Space Wolves
+    aliases: ["Sixth Legion", "VI Legion"]
+  - name: Imperial Fists
+    aliases: ["Seventh Legion", "VII Legion"]
+  - name: Night Lords
+    aliases: ["Eighth Legion", "VIII Legion"]
+  - name: Blood Angels
+    aliases: ["Ninth Legion", "IX Legion"]
+  - name: Iron Hands
+    aliases: ["Tenth Legion", "X Legion"]
+  - name: Eleventh Legion
+    aliases: ["XI Legion"]
+  - name: World Eaters
+    aliases: ["Twelfth Legion", "XII Legion"]
+  - name: Ultramarines
+    aliases: ["Thirteenth Legion", "XIII Legion"]
+  - name: Death Guard
+    aliases: ["Fourteenth Legion", "XIV Legion"]
+  - name: Thousand Sons
+    aliases: ["Fifteenth Legion", "XV Legion"]
+  - name: Sons of Horus
+    aliases: ["Luna Wolves", "Sixteenth Legion", "XVI Legion"]
+  - name: Word Bearers
+    aliases: ["Seventeenth Legion", "XVII Legion"]
+  - name: Salamanders
+    aliases: ["Eighteenth Legion", "XVIII Legion"]
+  - name: Raven Guard
+    aliases: ["Nineteenth Legion", "XIX Legion"]
+  - name: Alpha Legion
+    aliases: ["Twentieth Legion", "XX Legion"]
+
+factions:
+  - name: Mechanicum
+    aliases: ["Adeptus Mechanicus", "Martian Mechanicum"]
+  - name: Custodes
+    aliases:
+      ["Legio Custodes", "Adeptus Custodes", "Custodian Guard", "Custodian"]
+  - name: Sisters of Silence
+    aliases: ["Silent Sisterhood", "Null-Maidens"]
+  - name: Imperial Army
+    aliases: ["Solar Auxilia", "Army of the Imperium"]
+  - name: Imperial Navy
+    aliases: ["Navis Imperialis"]
+  - name: Titan Legions
+    aliases: ["Collegia Titanica", "Titan Legion"]
+  - name: Legio Mortis
+    aliases: ["Death's Heads"]
+  - name: Legio Tempestus
+  - name: Legio Audax
+  - name: Officio Assassinorum
+    aliases: ["Assassinorum"]
+  - name: Navigators
+    aliases: ["Navis Nobilite"]
+  - name: The Cabal
+  - name: Perpetuals
+  - name: Khorne
+    aliases: ["the Blood God", "the Lord of Skulls"]
+  - name: Tzeentch
+    aliases: ["the Changer of Ways", "the Architect of Fate"]
+  - name: Nurgle
+    aliases: ["the Plague God", "Grandfather Nurgle", "the Lord of Decay"]
+  - name: Slaanesh
+    aliases: ["the Dark Prince", "the Prince of Pleasure"]
+  - name: Chaos
+    aliases: ["the Ruinous Powers", "the Empyrean"]
+
+locations:
+  - name: Terra
+    aliases: ["Earth"]
+  - name: Luna
+  - name: Mars
+  - name: Isstvan III
+    aliases: ["Isstvan 3"]
+  - name: Isstvan V
+    aliases: ["Isstvan 5", "Isstvan system"]
+  - name: Prospero
+  - name: Calth
+  - name: Macragge
+  - name: Ultramar
+  - name: "Signus Prime"
+    aliases: ["Signus"]
+  - name: Ullanor
+  - name: Molech
+  - name: Barbarus
+  - name: Chemos
+  - name: Nostramo
+  - name: Nocturne
+  - name: Deliverance
+    aliases: ["Lycaeus"]
+  - name: Fenris
+  - name: Inwit
+  - name: Colchis
+  - name: Baal
+  - name: Medusa
+  - name: Caliban
+  - name: Nikaea
+  - name: Tallarn
+  - name: Sotha
+    aliases: ["the Pharos"]
+  - name: Cadia
+  - name: Olympia
+  - name: Chondax
+  - name: "Eye of Terror"
+    aliases: ["the Eye of Terror", "the Eye"]
+  - name: Dwell
+  - name: Sarosh
+  - name: Davin
+  - name: Zaramund
+  - name: Perditus
+
+authors:
+  - name: Christian Dunn
+    aliases:
+      - C.Z. Dunn
+      - C Z Dunn
+  - name: Laurie Goulding
+    aliases:
+      - L J Goulding
+      - L.J. Goulding
